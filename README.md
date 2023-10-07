@@ -4,6 +4,7 @@
 
 ---
 
+
 <p align="center">🌱 I’m currently learning **Python, TensorFlow, NLP and Flask</p>
 
 <p align="center">💬 Ask me about **Python, AI, software engineering, developer tips, and collaborative projects!</p>
@@ -29,7 +30,10 @@
 
 ---
 
-<p align="center">☕️ Buy me a coffee at <a href="YOUR_COFFEE_LINK_HERE">Buy Me a Coffee</a></p>
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/Buy me a Coke"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a Coke" /></a></p>
 
+
+---
 
 <p align="center">CodeWith Dhairya ❤️</p>
